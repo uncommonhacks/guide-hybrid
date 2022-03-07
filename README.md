@@ -10,6 +10,8 @@ most importantly, have fun ᖍ(ツ)ᖌ.
   Non-UChicago students unfortunately will not be allowed to attend the event
   in-person, though all are open to attend the hackathon virtually. 
   The same programming will be available for both in-person and virtual participants, so don't fret either way!
+- Where
+  - If you're attending in-person, we'll be having an assortment of in-person events on the UChicago campus, as well as some virtual events. Details of locations and times will be sent to in-person participants in advance. If attending virtually, all links and info will be included in our hacker guide, which will be sent out before the event begins. We anticipate using Gather.Town and Discord for all hackers!
 
 # Before the Hackathon
 
@@ -62,42 +64,33 @@ everyone has the opportunity to watch.
 Tentative Schedule
 =================
 
-See [hacks2021.uncommonhacks.com](https://hacks2021.uncommonhacks.com) for the latest info.
+See [hacks2021.uncommonhacks.com](https://hacks2022.uncommonhacks.com) for the latest info.
 All times are in UTC-05:00, Chicago time!
 
-**FRIDAY APRIL 2nd**
+**FRIDAY APRIL 1st**
 
-* 4:00 PM - [tech recruiting](https://www.facebook.com/events/297488921754067)
-* 5:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
-* 5:30 pm – [hacks x hack night](https://m.facebook.com/#!/events/201741408014605/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22group_local_event_create%22%2C%22action_history%22%3A%22null%22%7D&notif_t=group_local_event_create&notif_id=1617236122084919&ref=m_notif)
-* 7:00 PM - [intro to git](https://www.facebook.com/events/463066411629186)
-* 8:00 PM - [critical analysis of cyberpunk](https://www.facebook.com/events/759405498078850)
-* 9:00 PM – social time with uh team
+* 5:00 PM - CSS still life
+* 7:00 PM - intro to game design
+* 8:00 PM – social time with uh team
 
-**SATURDAY APRIL 3rd**
+**SATURDAY APRIL 2nd**
 
 * 11:00 AM – team formation
 * 11:30 AM – sponsor fair
 * 1:00 PM – opening ceremony
 * 2:00 PM – hacking starts
-* 2:00 PM - [quantum hacks](https://www.facebook.com/events/288526626210902)
-* 3:00 PM - [intro to front-end web dev](https://www.facebook.com/events/1377433892611789)
-* 4:00 PM - [intro to back-end](https://www.facebook.com/events/511412866539783)
-* 5:00 PM - [3D + AR](https://www.facebook.com/events/272899754364098)
-* 6:00 PM - [generative music](https://www.facebook.com/events/808509363205672)
-* 7:00 PM - social time begins
-* 8:00 PM - [game mechanics](https://www.facebook.com/events/481717142862687)
-* 10:00 PM - dress-up party
-* 11:00 PM - ;)
+* 3:00 PM - how social factors influence video games
+* 4:00 PM - board game design
+* 5:00 PM - intro to computational art
+* 6:00 PM - maritime archeology workshop
+* 7:00 PM - mystery event
+* 8:00 PM - dinner/social time
 
-Friday’s workshops will be more focused on introducing base concepts across
-the different fields where you might want to develop your project, while Saturday’s
-workshops will dive more deeply into using specific technologies.
-Also, be ready for fun surprise mini-events happening throughout the event ;)
+Friday’s workshops will be more focused on introducing base concepts across the different fields where you might want to develop your project, while Saturday’s workshops will dive more deeply into using specific technologies. Also, be ready for fun surprise mini-events happening throughout the event 😉
 
-**SUNDAY APRIL 4th**
-* 8:00 AM - morning meditation
-* 9:00 AM - yoga!
+**SUNDAY APRIL 3rd**
+
+* 9:00 AM - morning meditation
 * 11:00 AM – pitching workshop
 * 11:30 AM – hacker peer feedback session
 * 2:00 PM – hacking ends
