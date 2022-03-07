@@ -6,16 +6,15 @@ most importantly, have fun ᖍ(ツ)ᖌ.
 # An Overview of A Hybrid Hackathon
 
 - Hybrid
-  - If you're a UChicago student, you're welcome to attend the event in-person. 
-  Non-UChicago students unfortunately will not be allowed to attend the event
-  in-person, though all are open to attend the hackathon virtually. 
-  The same programming will be available for both in-person and virtual participants, so don't fret either way!
+  - UChicago Students: If you're a UChicago student, you are welcome to attend the event either in-person or virtually. 
+  - Non-UChicago students: You are welcome to attend the virtual hackathon. Due to covid restriction we unfortunately would not be able to offer a spot in-person.
+  - The same programming will be available for both in-person and virtual participants, so don't fret either way!
 - Where
   - If you're attending in-person, we'll be having an assortment of in-person events on the UChicago campus, as well as some virtual events. Details of locations and times will be sent to in-person participants in advance. If attending virtually, all links and info will be included in our hacker guide, which will be sent out before the event begins. We anticipate using Gather.Town and Discord for all hackers!
 
 # Before the Hackathon
 
-## What do I need to participate this year?
+## What do I need to participate *virtually* this year?
 
 -  Computer
    -  Because Uncommon Hacks is virtual this year,
@@ -38,6 +37,25 @@ most importantly, have fun ᖍ(ツ)ᖌ.
    -  [Replit](repl.it) (Sponsor) You can find a 3-Month Hacker Plan code and starter guide [here.](https://replit.com/@amatai/replguide#replit_guide.md)
    -  Additional platforms will be updated and confirmed before the event
 
+## What do I need to participate *in-person* this year?
+
+-   Computer
+    -   Or any other hardware you are interested in using
+-   Chargers
+    -   Phone Charger
+    -   Computer Charger
+-   Headphones
+    -   Sometimes, you gotta jam out
+-   Extra space for swag
+    -   You will be getting T-Shirts and other stuff, so come prepared with extra space
+-   Software
+   -  [Discord](https://discord.com)
+      - Discord can be accessed in a web browser, but the desktop or mobile application is recommended
+-  Websites
+   -  [Devpost](https://uncommon-hacks-2021.devpost.com)
+   -  [Twitch](https://www.twitch.tv/)
+   -  [Github](https://github.com/uncommonhacks)
+   -  [Gather.town](https://gather.town)
 
 
 ## Additional Comments
@@ -133,6 +151,10 @@ or two.
 
 ### Forming a Team
 
+You are encouraged to work in teams of up to four (4) people! 
+Collaborating with hackers across different schools is especially welcome. 
+We will offer plenty of opportunities for you to meet new people and make teams. 
+
 Many people choose to work with teams at hackathons. Some people may
 already have a team going into the event: from school, from being meme
 friends online, etc. But do not worry if you do not have a team at the
@@ -155,9 +177,10 @@ When you have a team, start thinking about what you might want to build.
 You can build basically anything you want, with the main rule being you
 have to build it entirely during Uncommon Hacks. We’ll have several
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
-full list), which you might use as inspiration for your project. You
-also can look at [last year's
-submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) for
+full list), which you might use as inspiration for your project. 
+Our hackers created the most whimsical projects from 3D music visualizer to Pokémon cards producer.
+You also can look at [2021 submissions](https://uncommon-hacks-2021.devpost.com/project-gallery)
+[2020 submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) for
 some examples of what kinds of projects people have worked on.
 
 It can be hard to decide on an idea, especially if you’re working with
