@@ -182,6 +182,7 @@ Our hackers created the most whimsical projects from 3D music visualizer to PokÃ
 You also can look at 
 - [2021 submissions](https://uncommon-hacks-2021.devpost.com/project-gallery)
 - [2020 submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) 
+
 for some examples of what kinds of projects people have worked on.
 
 It can be hard to decide on an idea, especially if youâ€™re working with
