@@ -82,7 +82,7 @@ everyone has the opportunity to watch.
 Tentative Schedule
 =================
 
-See [hacks2021.uncommonhacks.com](https://hacks2022.uncommonhacks.com) for the latest info.
+See [hacks2022.uncommonhacks.com](https://hacks2022.uncommonhacks.com) for the latest info.
 All times are in UTC-05:00, Chicago time!
 
 **FRIDAY APRIL 1st**
