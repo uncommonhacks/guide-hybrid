@@ -179,9 +179,10 @@ have to build it entirely during Uncommon Hacks. We’ll have several
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
 full list), which you might use as inspiration for your project. 
 Our hackers created the most whimsical projects from 3D music visualizer to Pokémon cards producer.
-You also can look at [2021 submissions](https://uncommon-hacks-2021.devpost.com/project-gallery)
-[2020 submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) for
-some examples of what kinds of projects people have worked on.
+You also can look at 
+- [2021 submissions](https://uncommon-hacks-2021.devpost.com/project-gallery)
+- [2020 submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) 
+for some examples of what kinds of projects people have worked on.
 
 It can be hard to decide on an idea, especially if you’re working with
 teammates you’ve just met. Have fun brainstorming, and you can approach
