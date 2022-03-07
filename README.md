@@ -6,10 +6,10 @@ most importantly, have fun ᖍ(ツ)ᖌ.
 # An Overview of A Hybrid Hackathon
 
 - Hybrid
-   - If you're a UChicago student, you're welcome to attend the event in-person. 
-   - Non-UChicago students unfortunately will not be allowed to attend the event
-   -  in-person, though all are open to attend the hackathon virtually. 
-   -  The same programming will be available for both in-person and virtual participants, so don't fret either way!
+  If you're a UChicago student, you're welcome to attend the event in-person. 
+  Non-UChicago students unfortunately will not be allowed to attend the event
+  in-person, though all are open to attend the hackathon virtually. 
+  The same programming will be available for both in-person and virtual participants, so don't fret either way!
 
 # Before the Hackathon
 
