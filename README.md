@@ -1,36 +1,34 @@
-# Uncommon Hacks 2022 - Hybrid Guide
-We cannot wait for you to attend Uncommon Hacks February 15-16 at the Polsky
-Exchange in Chicago, Illinois. We hope you make friends, learn, meme out, but
+We cannot wait for you to *virtually* attend
+[Uncommon Hacks](https://hacks2021.uncommonhacks.com) April 2-4.
+We hope you make friends, learn, meme out, but
 most importantly, have fun ᖍ(ツ)ᖌ.
 
 # Before the Hackathon
 
-## What to Bring
+## What do I need to participate this year?
 
-Here are some common choices of things to bring to a hackathon.
+-  Computer
+   -  Because Uncommon Hacks is virtual this year,
+      you will need an internet-enabled device to participate
+-  Video Camera and Microphone
+   -  These items are not required, but they will help you connect with other
+      hackers and interact with speakers during workshops
+-  VPN
+   -  Both Discord and Twitch require a
+   VPN if accessed from certain regions such as China.
+      - Recommended VPN: [Astrill](https://www.astrill.com/)
+-  Software
+   -  [Discord](https://discord.com)
+      - Discord can be accessed in a web browser, but the desktop or mobile application is recommended
+-  Websites
+   -  [Devpost](https://uncommon-hacks-2021.devpost.com)
+   -  [Twitch](https://www.twitch.tv/)
+   -  [Github](https://github.com/uncommonhacks)
+   -  [Gather.town](https://gather.town)
+   -  [Replit](repl.it) (Sponsor) You can find a 3-Month Hacker Plan code and starter guide [here.](https://replit.com/@amatai/replguide#replit_guide.md)
+   -  Additional platforms will be updated and confirmed before the event
 
--   Computer
-    -   Or any other hardware you are interested in using
--   Chargers
-    -   Phone Charger
-    -   Computer Charger
--   Spare clothes
-    -   Changing clothes is an awesome feeling if you’re into it
-    -   We also recommend bringing a hoodie incase it gets cold
--   Blanket / sleeping bag
-    -   We will be providing a room for sleeping, but it might get cold, especially since it’s February :(.
--   Toiletries
-    -   We will have toiletries, but we recommend bringing your own toothbrush and paste, face wash if you use it, dry shampoo, tampons, etc.
--   Headphones
-    -   Sometimes, you gotta jam out
--   Extra space for swag
-    -   You will be getting T-Shirts and other stuff, so come prepared with extra space
--   Warm clothes
-    -   It will be cold in Chicago (estimated high of around 25ºF/-5ºC), so if you’re not coming from the area be prepared for cold and wind (and possibly snow)!
 
-## Getting There
-
-See directions.md for directions.
 
 ## Additional Comments
 
@@ -39,43 +37,64 @@ won’t have to be worrying about homework over the weekend. You’ll be
 able to get the most out of the event, and hopefully will be
 re-energized by taking a break from your schoolwork!
 
-A week or so before Uncommon Hacks, you’ll get an invite to our Slack
-group. If you haven’t used [Slack](https://slack.com/) before, it’s a
-messaging app for teams that we will use to distribute announcements
-during the event and facilitate communication. Once you join, you’ll be
-able to talk to other hackers to look for teammates or find people to
-carpool with. During the event, Slack will be the primary way we make
-announcements, and will also be used to connect with mentors and others
-for help.
+A week or so before Uncommon Hacks, you’ll get an invite to the Discord
+server for the event. [Discord](https://discord.com) is a voice and messaging app
+that will be the primary communication platform for the event.
+You will use Discord to collaborate with other hackers,
+join workshops and social activities, see announcements, and get help
+from mentors and the Uncommon Hacks team.
+Instructions on creating a free account (no payment required!)
+and downloading the app will be sent
+with the invitation to the event's server.
 
-Tenative Schedule
+Additionally, we will live stream large events such as the opening and
+closing ceremonies on [Twitch](https://www.twitch.tv) to make sure
+everyone has the opportunity to watch.
+
+Tentative Schedule
 =================
 
-See [uncommonhacks.com](https://uncommonhacks.com) for the
-latest info.
+See [hacks2021.uncommonhacks.com](https://hacks2021.uncommonhacks.com) for the latest info.
+All times are in UTC-05:00, Chicago time!
 
-**SATURDAY FEBRUARY 16th**
+**FRIDAY APRIL 2nd**
 
-* 9:00 AM – Registration starts
-* 10:00 AM – Breakfast
-* 10:00 AM - Team Formation I
-* 11:00 AM – Interacting with sponsors
-* 11:30 AM – Opening ceremony
-* 12:00 PM – Hacking starts
-* 12:30 PM – Team formation II
-* 7:00 PM – Dinner
+* 4:00 PM - [tech recruiting](https://www.facebook.com/events/297488921754067)
+* 5:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
+* 5:30 pm – [hacks x hack night](https://m.facebook.com/#!/events/201741408014605/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22group_local_event_create%22%2C%22action_history%22%3A%22null%22%7D&notif_t=group_local_event_create&notif_id=1617236122084919&ref=m_notif)
+* 7:00 PM - [intro to git](https://www.facebook.com/events/463066411629186)
+* 8:00 PM - [critical analysis of cyberpunk](https://www.facebook.com/events/759405498078850)
+* 9:00 PM – social time with uh team
 
-Be ready for fun suprise mini-events happening throughout the event ;)
+**SATURDAY APRIL 3rd**
 
-**SUNDAY FEBRUARY 17th**
+* 11:00 AM – team formation
+* 11:30 AM – sponsor fair
+* 1:00 PM – opening ceremony
+* 2:00 PM – hacking starts
+* 2:00 PM - [quantum hacks](https://www.facebook.com/events/288526626210902)
+* 3:00 PM - [intro to front-end web dev](https://www.facebook.com/events/1377433892611789)
+* 4:00 PM - [intro to back-end](https://www.facebook.com/events/511412866539783)
+* 5:00 PM - [3D + AR](https://www.facebook.com/events/272899754364098)
+* 6:00 PM - [generative music](https://www.facebook.com/events/808509363205672)
+* 7:00 PM - social time begins
+* 8:00 PM - [game mechanics](https://www.facebook.com/events/481717142862687)
+* 10:00 PM - dress-up party
+* 11:00 PM - ;)
 
-* 12:00 AM – Midnight Snack
-* 9:00 AM – Breakfast
-* 12:00 PM – Hacking ends
-* 1:00 PM – Expo
-* 3:00 PM – Closing ceremony
-* 3:45 PM – Prizes are awarded
-* 4:00 PM – Event ends
+Friday’s workshops will be more focused on introducing base concepts across
+the different fields where you might want to develop your project, while Saturday’s
+workshops will dive more deeply into using specific technologies.
+Also, be ready for fun surprise mini-events happening throughout the event ;)
+
+**SUNDAY APRIL 4th**
+* 8:00 AM - morning meditation
+* 9:00 AM - yoga!
+* 11:00 AM – pitching workshop
+* 11:30 AM – hacker peer feedback session
+* 2:00 PM – hacking ends
+* 2:30 PM – sponsor booths
+* 4:30 PM – closing ceremony + awards
 
 # At the Event
 
@@ -93,19 +112,20 @@ are learning experiences for all.
 
 ## Safeness
 
-If ever at any point you should feel unsafe at the event, PLEASE come up
-to a team member, message us on Slack, or contact the MLH
-representative. We will handle the situation accordingly.
+If ever at any point you should feel unsafe at the event,
+PLEASE contact a team member through Discord, email
+[celery@uncommonhacks.com](mailto:celery@uncommonhacks.com),
+or contact the MLH representative. We will handle the situation accordingly.
 
 ## Getting Settled
 
-When you first arrive at the Polsky Exchange, there will be a short
-check-in. You’ll receive a n30n wristband to denote yourself as a
-hacker, a name tag, a dope t-shirt, a slick sticker, and important
-information for the day of the event.
+Joining the Discord server will serve as your check-in for the event.
+Before opening ceremonies and hacking begins on Saturday,
+you can chat casually with other
+hackers, meet sponsors, participate in activities to find a team, or just hang out.
 
-We have a number of sponsors who provide support for this event. When
-you’ll arrive, you’ll have a chance to talk with our sponsors about what
+We have a number of sponsors who provide support for this event.
+You'll be able to join their Discord channels to talk with them about what
 they do. Sponsors often come to recruit for jobs and internships, let
 you know about their products for developers, and might sponsor a prize
 or two.
@@ -132,11 +152,11 @@ It’s also totally fine to work on a project by yourself.
 
 When you have a team, start thinking about what you might want to build.
 You can build basically anything you want, with the main rule being you
-have to build it entirely during Uncommon Hacks. We’ll have a number of
+have to build it entirely during Uncommon Hacks. We’ll have several
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
 full list), which you might use as inspiration for your project. You
 also can look at [last year's
-submissions](https://uncommonhacks2018.devpost.com/submissions) for
+submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) for
 some examples of what kinds of projects people have worked on.
 
 It can be hard to decide on an idea, especially if you’re working with
@@ -165,7 +185,7 @@ You’ll have 24 hours to make your project.
 
 ### Starting your Project
 
-Once you’ve settled on an idea and are ready to dive in, one the first
+Once you’ve settled on an idea and are ready to dive in, one of the first
 barriers you might run into is setting up your environment and doing all
 the
 [yak-shaving](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx)
@@ -189,68 +209,62 @@ have enough information to make, or a question about best practices. We
 will have a few mentors during the event who will be around to answer
 any technical questions, and there are also are probably other hackers
 who might be familiar with what you are working with. Just send a
-message to the *technical\_help* channel on Slack, and someone should
+message to the *technical\_help* channel on Discord, and someone should
 get back to you!
 
 If you have a question about the event for the Uncommon Hacks team (such
-as a scheduling questions, rule clarifications, etc.), send a message to
+as a scheduling question, a rule clarification, etc.), send a message to
 the *questions* channel. There’s a good chance someone else has the same
 question, and this lets anyone on our team respond. You can also message
-any of the team members directly on Slack if necessary.
+any of the team members directly on Discord if necessary.
 
 ## Additional Events
 
-At Uncommon Hacks, we’ll have numerous fun events, such as workshops
-done by students, Soylent Pong, SOLO cup stacking, and much more. These
+At Uncommon Hacks, we’ll have numerous fun events, such as technical workshops
+given by students and professionals, [Bob Ross](https://www.youtube.com/watch?v=lLWEXRAnQd0)
+painting, sunrise yoga, and much more. These
 workshops are meant to be fun learning experiences that serve as a break
-from your project. And yes, Soylent Pong is what it sounds like - [beer
-pong](https://www.bpong.com/beer-pong-rules/), a common college
-drinking game, but with [Soylent](https://www.soylent.com/), the meal
-replacement drink. We will also have water available.
+from your project.
 
 We want the other events to be a surprise… so you will not find out
 until the day of ;).
 
 ## Food
 
-We’ll be providing all meals and snacks throughout the event, so don’t
-worry about bringing food (unless you love very specific snacks). If you
-have dietary restrictions, all the food should be clearly labelled and
-there should be options for everyone. If something isn’t labelled or you
-have any other questions, please let us know.
+We have scheduled breaks during meal times for folks in Chicago,
+but you can grab grub at any time during the event.
 
 ## Sleeping
 
 Hackathons have a reputation for uninterrupted work with little sleep,
-but it’s important that you have energy for the entire event and don’t
+but it’s important that you have the energy for the entire event and don’t
 burn out. You *should* take some time to get a decent night’s sleep.
-
-At Uncommon Hacks, we’ll have a large room for
-sleeping. We’ll also have earplugs (highly recommended), and would
-recommend you bring a sleeping bag and/or blanket.
 
 ## Finishing your Project
 
 When you’re almost done with your project, make sure to finalize your
-submission on Devpost and click submit before the deadline (12pm on
-Sunday)! Devpost will be the way we look and submit projects, so it is key that you register for a team otherwise your project will not be judged. You can select which of the theme and sponsor prizes you want
+submission on Devpost and click submit before the deadline (2 pm on
+Sunday)! Devpost will be the way we look and submit projects,
+so it is key that you register for a team otherwise your project will not be judged.
+You can select which of the theme and sponsor prizes you want
 your project to be reviewed for.
 
 When time is up, you must stop hacking. However, you’re allowed to debug
-and make small fixes to their programs if necessary, e.g. if during
-demoing your hack you find a bug that breaks your application and the
+and make small fixes to their programs if necessary.
+For example, if you are demoing  your hack, and you find a bug that breaks
+your application, and the
 fix is only a few lines of code, it's fine to fix that.
 
 ## Demos and Presentations
 
 ### The Expo
 
-After hacking has ended and a short break for lunch, the main room will
-be set up for demos in a science-fair style expo. We’ll use the Devpost
-submissions to assign each group to a table, and announce the table
-assignments when they are determined. Your group will be given a table
+After hacking has ended, we will assign
+teams to virtual rooms for a science-fair style expo. We’ll use the Devpost
+submissions to assign each group to a room and announce the
+assignments when they are determined. Your team will be given a room
 number, and there will be some time for judges and other participants to
-walk around and see your projects. Even if your project isn’t fully
+move between rooms to see your projects. Even if your project isn’t fully
 working or you didn’t finish it, you should still present! People like
 hearing about what you tried to do, what challenges you faced, what
 technology you used, and what you learned.
@@ -258,7 +272,7 @@ technology you used, and what you learned.
 We will have a number of judges who will be going around and asking
 about your projects. They will be using a judging system called
 [Gavel](http://www.anishathalye.com/2016/09/19/gavel-an-expo-judging-system/)
-(which was built by the HackMIT team) on their phones to rank the
+(which was built by the HackMIT team) to rank the
 projects. Using fancy math, Gravel aggregates all the judges’ responses
 and determines a ranking, which is used to determine the top projects.
 Themed prizes will be judged separately, and sponsor prizes will be
@@ -266,7 +280,8 @@ judged by the sponsors, respectively.
 
 ### Final Presentations and Awards
 
-After the expo, we'll have some of the top projects present, and then will give out awards. After some closing remarks, the event will finish!
+After the expo, we'll have some of the top projects present.
+Then, we will give out awards. Following some closing remarks, the event will finish!
 
 # Additional Resources
 
@@ -285,11 +300,26 @@ Necessities](https://www.sparkpost.com/blog/hackathon-necessities/)
 
 ## Technical Resources
 
-Once you have an idea for a project, you’re going to figure out how to build it. Of course, Google is one of the best ways to figure out how to build your project. For example, if you would like to build a website, you can google “How to Build a Website” or “HTML/CSS/Javascript.” Some great tutorials for beginning new topics are [CodeAcademy](https://www.codecademy.com/), [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) if you know exactly what language you’re using, or [Treehouse](https://teamtreehouse.com/) if you like learning with videos. [MDN](https://developer.mozilla.org/en-US/) is a fantastic resource for web development and browser extensions. There are also many MOOC’s (Massive Online Open Courses) online. Once you know what stack you will be using, you can dive in by researching tutorials online for what you’re building online. Ensure that you are dividing up the work evenly within your team. Our advice is to take it step by step - write one piece of code, see if it works, then build on the next part. Debugging is annoying, so tread carefully!
+Once you have an idea for a project, you’re going to figure out how to build it.
+Of course, Google is one of the best ways to figure out how to build your project.
+For example, if you would like to build a website, you can google
+“How to Build a Website” or “HTML/CSS/Javascript.”
+Some great tutorials for beginning new topics are [CodeAcademy](https://www.codecademy.com/),
+[Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) if you know exactly
+what language you’re using, or [Treehouse](https://teamtreehouse.com/)
+if you like learning with videos. [MDN](https://developer.mozilla.org/en-US/)
+is a fantastic resource for web development and browser extensions.
+There are also many MOOCs (Massive Online Open Courses) online. Once you know what stack
+you will be using, you can dive in by researching tutorials online for what you’re building online.
+Ensure that you are dividing up the work evenly within your team.
+Our advice is to take it step by step - write one piece of code, see if it works,
+then build on the next part. Debugging is annoying, so tread carefully!
 
 # About This Guide
 
-Written by Ben Weinshel and Juliette Hainline, Uncommon Hacks
+This guide was originally written by Ben Weinshel and Juliette Hainline
+[here](https://github.com/uncommonhacks/guide),
+and adapted by Samantha Chen and Thomas Propson.
 
 This is a living document. Please email
 [celery@uncommonhacks.com](mailto:celery@uncommonhacks.com) with any
@@ -297,4 +327,8 @@ comments or suggestions, or file an issue or pull request on this
 repository. If you’re organizing a hackathon, feel free to fork this
 repository and adapt this document for your needs!
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+Creative Commons Attribution 4.0 International License</a>.
