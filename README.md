@@ -17,25 +17,18 @@ most importantly, have fun ᖍ(ツ)ᖌ.
 ## What do I need to participate *virtually* this year?
 
 -  Computer
-   -  Because Uncommon Hacks is virtual this year,
+   -  Because Uncommon Hacks is hybrid this year,
       you will need an internet-enabled device to participate
 -  Video Camera and Microphone
    -  These items are not required, but they will help you connect with other
       hackers and interact with speakers during workshops
--  VPN
-   -  Both Discord and Twitch require a
-   VPN if accessed from certain regions such as China.
-      - Recommended VPN: [Astrill](https://www.astrill.com/)
 -  Software
    -  [Discord](https://discord.com)
       - Discord can be accessed in a web browser, but the desktop or mobile application is recommended
 -  Websites
-   -  [Devpost](https://uncommon-hacks-2021.devpost.com)
-   -  [Twitch](https://www.twitch.tv/)
+   -  [Devpost](#) (link coming soon)
    -  [Github](https://github.com/uncommonhacks)
    -  [Gather.town](https://gather.town)
-   -  [Replit](repl.it) (Sponsor) You can find a 3-Month Hacker Plan code and starter guide [here.](https://replit.com/@amatai/replguide#replit_guide.md)
-   -  Additional platforms will be updated and confirmed before the event
 
 ## What do I need to participate *in-person* this year?
 
@@ -52,8 +45,7 @@ most importantly, have fun ᖍ(ツ)ᖌ.
    -  [Discord](https://discord.com)
       - Discord can be accessed in a web browser, but the desktop or mobile application is recommended
 -  Websites
-   -  [Devpost](https://uncommon-hacks-2021.devpost.com)
-   -  [Twitch](https://www.twitch.tv/)
+   -  [Devpost](#) (link coming soon)
    -  [Github](https://github.com/uncommonhacks)
    -  [Gather.town](https://gather.town)
 
@@ -75,9 +67,6 @@ Instructions on creating a free account (no payment required!)
 and downloading the app will be sent
 with the invitation to the event's server.
 
-Additionally, we will live stream large events such as the opening and
-closing ceremonies on [Twitch](https://www.twitch.tv) to make sure
-everyone has the opportunity to watch.
 
 Tentative Schedule
 =================
@@ -88,31 +77,34 @@ All times are in UTC-05:00, Chicago time!
 **FRIDAY APRIL 1st**
 
 * 5:00 PM - CSS still life
-* 7:00 PM - intro to game design
-* 8:00 PM – social time with uh team
+* 6:30 PM - dinner
+* 6:30 PM - intro to Twine games
+* 7:30 PM – social time with uh team
 
 **SATURDAY APRIL 2nd**
 
-* 11:00 AM – team formation
-* 11:30 AM – sponsor fair
+* 11:30 AM – check-in + sponsor fair
+* 12:30 PM - team formation
 * 1:00 PM – opening ceremony
 * 2:00 PM – hacking starts
 * 3:00 PM - how social factors influence video games
 * 4:00 PM - board game design
 * 5:00 PM - intro to computational art
 * 6:00 PM - maritime archeology workshop
-* 7:00 PM - mystery event
-* 8:00 PM - dinner/social time
+* 6:30 PM - dinner
+* 7:00 PM - MLH event: slideshow karaoke
+* 8:00 PM - mystery event
+* 10:00 PM - doors close (but hacking can continue!)
 
 Friday’s workshops will be more focused on introducing base concepts across the different fields where you might want to develop your project, while Saturday’s workshops will dive more deeply into using specific technologies. Also, be ready for fun surprise mini-events happening throughout the event 😉
 
 **SUNDAY APRIL 3rd**
 
-* 9:00 AM - morning meditation
+* 9:30 AM - doors open + morning meditation
 * 11:00 AM – pitching workshop
 * 11:30 AM – hacker peer feedback session
 * 2:00 PM – hacking ends
-* 2:30 PM – sponsor booths
+* 2:30 PM – project expo + judging
 * 4:30 PM – closing ceremony + awards
 
 # At the Event
@@ -129,7 +121,7 @@ are learning experiences for all.
 
 ![Cool](media/image1.png)
 
-## Safeness
+## Safety
 
 If ever at any point you should feel unsafe at the event,
 PLEASE contact a team member through Discord, email
@@ -178,7 +170,8 @@ You can build basically anything you want, with the main rule being you
 have to build it entirely during Uncommon Hacks. We’ll have several
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
 full list), which you might use as inspiration for your project. 
-Our hackers created the most whimsical projects from 3D music visualizer to Pokémon cards producer.
+Our hackers created the most whimsical projects from 3D music visualizer to a Pokémon card generator!
+
 You also can look at 
 - [2021 submissions](https://uncommon-hacks-2021.devpost.com/project-gallery)
 - [2020 submissions](https://uncommon-hacks-2020.devpost.com/project-gallery) 
@@ -221,7 +214,7 @@ to do these first steps. Check out the Additional Resources section for
 some getting started guides for different environments.
 
 When you have a free moment, it’s also wise to draft your submission to
-Devpost, which is the site
+[Devpost](devpost.com), which is the site
 we use to track submissions. Everyone on your team should make an
 account, and you can add multiple people to a project. Most other
 hackathons also use Devpost for submissions, so you’ll be able to build
@@ -258,13 +251,13 @@ until the day of ;).
 ## Food
 
 We have scheduled breaks during meal times for folks in Chicago,
-but you can grab grub at any time during the event.
+but you can grab grub at any time during the event if you're remote!
 
 ## Sleeping
 
 Hackathons have a reputation for uninterrupted work with little sleep,
 but it’s important that you have the energy for the entire event and don’t
-burn out. You *should* take some time to get a decent night’s sleep.
+burn out. You *should* take some time to get a decent night’s sleep, all in the comfort of your home.
 
 ## Finishing your Project
 
@@ -296,12 +289,8 @@ hearing about what you tried to do, what challenges you faced, what
 technology you used, and what you learned.
 
 We will have a number of judges who will be going around and asking
-about your projects. They will be using a judging system called
-[Gavel](http://www.anishathalye.com/2016/09/19/gavel-an-expo-judging-system/)
-(which was built by the HackMIT team) to rank the
-projects. Using fancy math, Gravel aggregates all the judges’ responses
-and determines a ranking, which is used to determine the top projects.
-Themed prizes will be judged separately, and sponsor prizes will be
+about your projects. We'll be evaluating projects on how well-designed, impactful, innovative, and technically impressived they are!
+Track prizes will be judged separately, and sponsor prizes will be
 judged by the sponsors, respectively.
 
 ### Final Presentations and Awards
